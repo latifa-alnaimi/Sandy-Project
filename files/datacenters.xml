@@ -1,0 +1,18 @@
+<?xml version="1.0" ?> 
+
+<DataCenterDescription>
+	<Center>
+		<CenterName>DC1</CenterName>
+		<Location>
+			<Lat>40.516229</Lat>
+			<Lon>-74.410984</Lon>
+		</Location>
+	</Center>
+	<Center>
+		<CenterName>DC2</CenterName>
+		<Location>
+			<Lat>40.4313684</Lat>
+			<Lon>-79.9805005</Lon>
+		</Location>
+	</Center>
+</DataCenterDescription>
