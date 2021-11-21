@@ -1,5 +1,4 @@
 # Storm Finder Project
-![StormFinder](figures/example.png)
 
 ### Objectives
 1. Detect storms approaching data centers
@@ -16,5 +15,9 @@
 2. Update status of weather stations based on weather information. Color codes: Green &rarr; safe, Yellow &rarr; warning, Red &rarr; storm very likely
 3. Get nearby stations that would affect data centers.
 4. Update status of data centers.
+
+
+### Sample Output
+<img src="figures/example.png" alt="example" width="200"/>
 
 
