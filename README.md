@@ -18,6 +18,6 @@
 
 
 ### Sample Output
-<img src="figures/example.png" alt="example" width="200"/>
+<img src="figures/example.png" alt="example" width="700"/>
 
 
