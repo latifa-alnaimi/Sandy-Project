@@ -1,4 +1,5 @@
 # Storm Finder Project
+![StormFinder](figures/example.png)
 
 ### Objectives
 1. Detect storms approaching data centers
