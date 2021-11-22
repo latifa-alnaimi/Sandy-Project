@@ -21,3 +21,24 @@
 <img src="figures/example.png" alt="example" width="700"/>
 
 
+
+### Modules in StormFinder
+**`main`**
+The following tasks are handled by `main`:
+1. Extraction and parsing of METAR data from the provided file
+2. Creation and update of `Station` objects
+3. Creation and update of `DataCenter` objects
+
+**`observers`**
+The visual representation
+
+**`datacenter`**
+`Station` and `DataCenter` classes and functions
+
+**`settings`**
+This is where the user would modify setting including metar and datacenter file paths (required input). In the settings, `wind` and `gust` thresholds also need to be set (default values provided). Finally, the radius of impact should also be specified; i.e. define the size of the area around the data center that should be considered.
+
+**`gmaps`**
+An customized implementation of the `pygmaps` package
+
+
